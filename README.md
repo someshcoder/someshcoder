@@ -9,12 +9,13 @@ Focused on building clean, scalable, and real-world web applications
 </p>
 
 <hr/>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/605edcaf-4120-434f-a275-a7062bf79b9e" />
+
 <!-- QUICK INFO -->
 
 <h2>👨‍💻 Professional Summary</h2>
 
 <ul>
+  <img align="right" width="350" height="400" alt="Coding" src="https://github.com/user-attachments/assets/af5423e1-7a28-4c4c-97d7-5e0c9bb7536b" />
   <li>🎓 BCA Student with strong interest in Web Development</li>
   <li>⚙️ MERN Stack Developer (MongoDB, Express, React, Node)</li>
   <li>🎯 Frontend-focused with growing backend knowledge</li>
