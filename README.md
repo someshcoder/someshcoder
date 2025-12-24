@@ -2,14 +2,18 @@
 <h1 align="center">Hi, I'm Somesh Bhatnagar 👋</h1>
 <h3 align="center">BCA Student | Aspiring Full Stack Developer (MERN)</h3>
 
+
+
 <p align="center">
 Focused on building clean, scalable, and real-world web applications
 </p>
 
 <hr/>
-
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/605edcaf-4120-434f-a275-a7062bf79b9e" />
 <!-- QUICK INFO -->
+
 <h2>👨‍💻 Professional Summary</h2>
+
 <ul>
   <li>🎓 BCA Student with strong interest in Web Development</li>
   <li>⚙️ MERN Stack Developer (MongoDB, Express, React, Node)</li>
