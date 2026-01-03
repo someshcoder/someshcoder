@@ -50,7 +50,7 @@ Focused on building clean, scalable, and real-world web applications
 
 <p>
   🔗 LinkedIn: <a href="https://www.linkedin.com/">https://www.linkedin.com/in/somesh-bhatnagar-18b388328/</a><br/>
-  🌍 E-Commerce Website: Work in Progress...<br/>
+  🌍 E-Commerce Website: Coming Soon...<br/>
   📧 Email: someshbhatnagar535@gmail.com
 </p>
 
