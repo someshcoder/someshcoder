@@ -45,6 +45,27 @@ Focused on building clean, scalable, and real-world web applications
 
 <hr/>
 
+<!-- PROJECTS -->
+<h2>🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+  </tr>
+  <tr>
+    <td>Portfolio Website</td>
+    <td>Personal professional portfolio showcasing skills and projects</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+   <tr>
+    <td>E-commerce Application</td>
+    <td>Full-featured e-commerce platform with product listing, cart, and order management</td>
+    <td>MERN Stack</td>
+  </tr>
+</table>
+
 <!-- CONNECT -->
 <h2>🌐 Connect With Me</h2>
 
