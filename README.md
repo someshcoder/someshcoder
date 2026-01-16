@@ -40,6 +40,7 @@ Focused on building clean, scalable, and real-world web applications
   <img src="https://img.shields.io/badge/Node.js-Intermediate-green" />
   <img src="https://img.shields.io/badge/Express.js-Intermediate-green" />
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-darkgreen" />
+  <img src="https://img.shields.io/badge/JWT-Intermediate-darkgreen" />
 </p>
 
 
