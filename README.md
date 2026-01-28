@@ -71,10 +71,18 @@ Focused on building clean, scalable, and real-world web applications
 <h2>🌐 Connect With Me</h2>
 
 <p>
-  🔗 LinkedIn: <a href="https://www.linkedin.com/">https://www.linkedin.com/in/somesh-bhatnagar-18b388328/</a><br/>
+  🔗 LinkedIn: 
+  <a href="https://www.linkedin.com/in/somesh-bhatnagar-18b388328/">
+    https://www.linkedin.com/in/somesh-bhatnagar-18b388328/
+  </a><br/>
+
   🌍 Memory Card Game: Coming Soon...<br/>
+
+  📱 Mobile: +91-8533002305<br/>
+
   📧 Email: someshbhatnagar535@gmail.com
 </p>
+
 
 <hr/>
 
