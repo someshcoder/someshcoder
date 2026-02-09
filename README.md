@@ -60,6 +60,13 @@ Focused on building clean, scalable, and real-world web applications
     <td>Personal professional portfolio showcasing skills and projects</td>
     <td>HTML, CSS, JavaScript</td>
   </tr>
+
+  <tr>
+  <td>Memory Card Game</td>
+  <td>Interactive memory card matching game with flip animations, difficulty levels, and score tracking</td>
+  <td>Angular, TypeScript, TailwindCSS</td>
+</tr>
+
    <tr>
     <td>E-commerce Application</td>
     <td>Full-featured e-commerce platform with product listing, cart, and order management</td>
