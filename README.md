@@ -64,7 +64,7 @@ Focused on building clean, scalable, and real-world web applications
   <tr>
   <td>Memory Card Game</td>
   <td>Interactive memory card matching game with flip animations, difficulty levels, and score tracking</td>
-  <td>Angular, TypeScript, TailwindCSS</td>
+  <td>React, TypeScript, TailwindCSS</td>
 </tr>
 
    <tr>
@@ -83,7 +83,7 @@ Focused on building clean, scalable, and real-world web applications
     https://www.linkedin.com/in/somesh-bhatnagar-18b388328/
   </a><br/>
 
-  🌍 Memory Card Game: Coming Soon...<br/>
+  🌍 Give me a suggesstion for My New Project...<br/>
 
   📱 Mobile: +91-8533002305<br/>
 
