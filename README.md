@@ -59,7 +59,7 @@ Focused on building clean, scalable, and real-world web applications
   <tr>
     <td>Portfolio Website</td>
     <td>Personal professional portfolio showcasing skills and projects</td>
-    <td>HTML, CSS, JavaScript</td>
+    <td>TypeScript, TailwindCSS, React</td>
   </tr>
 
   <tr>
