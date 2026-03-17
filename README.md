@@ -48,32 +48,66 @@ Focused on building clean, scalable, and real-world web applications
 <hr/>
 
 <!-- PROJECTS -->
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-  </tr>
-  <tr>
-    <td>Portfolio Website</td>
-    <td>Personal professional portfolio showcasing skills and projects</td>
-    <td>TypeScript, TailwindCSS, React</td>
-  </tr>
+### 🌐 Portfolio Website
 
-  <tr>
-  <td>Memory Card Game</td>
-  <td>Interactive memory card matching game with flip animations, difficulty levels, and score tracking</td>
-  <td>React, TypeScript, TailwindCSS</td>
-</tr>
+Personal portfolio website showcasing skills, projects, and achievements.
 
-   <tr>
-    <td>E-commerce Application</td>
-    <td>Full-featured e-commerce platform with product listing, cart, and order management</td>
-    <td>MERN Stack</td>
-  </tr>
-</table>
+**Tech Stack:** React, TypeScript, TailwindCSS
+
+🔗 [View Repository](https://github.com/someshcoder/PORTFOLIO-REPO-LINK)
+
+---
+
+### 🏡 Real Estate Application
+
+A modern full-stack real estate platform where users can browse, buy, and sell properties with detailed listings.
+
+**Tech Stack:** MERN Stack
+
+🔗 [View Repository](https://github.com/someshcoder/Real-Estate-Application.git)
+
+---
+
+### 🛒 E-commerce Application
+
+A full-featured e-commerce platform with product listings, shopping cart, and order management.
+
+**Tech Stack:** MERN Stack
+
+🔗 [View Repository](https://github.com/someshcoder/E-commerce.git)
+
+---
+
+### 🧠 Memory Card Game
+
+Interactive memory card matching game with animations, difficulty levels, and score tracking.
+
+**Tech Stack:** React, TypeScript, TailwindCSS
+
+🔗 [View Repository](https://github.com/someshcoder/Memory-Card-Game.git)
+
+---
+
+### 🎓 Learning Management System (LMS)
+
+An online learning platform where users can explore courses, watch lectures, and track their learning progress.
+
+**Tech Stack:** MERN Stack
+
+🔗 [View Repository](https://github.com/someshcoder/Learning-Management-System.git)
+
+---
+
+### 🏫 Student Union Application
+
+A full-stack web application to manage student union events, announcements, and student activities.
+
+**Tech Stack:** MERN Stack
+
+🔗 [View Repository](https://github.com/someshcoder/Student-Union-Application.git)
+
 
 <!-- CONNECT -->
 <h2>🌐 Connect With Me</h2>
